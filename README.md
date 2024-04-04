@@ -15,9 +15,11 @@ OLIVUS_1 operates on a traditional Build Measure Learn loop from Lean Manufactur
 ## Build Measure Learn Cycle
 ![bml](https://github.com/sancovp/OLIVUS_1/blob/main/mermaid-diagram-2024-04-04-144334.svg)
 
+## Plan-Do-Check-Act Cycle
+![1](https://github.com/sancovp/OLIVUS_1/blob/main/mermaid-diagram-2024-04-04-161601.svg)
+
 ## OMNISANC Cycle
 ![sanc](https://github.com/sancovp/OLIVUS_1/blob/main/olivus_1_BML.svg)
 ![2](https://github.com/sancovp/OLIVUS_1/blob/main/mermaid-diagram-2024-04-04-161411.svg)
-![1](https://github.com/sancovp/OLIVUS_1/blob/main/mermaid-diagram-2024-04-04-161601.svg)
 
 
