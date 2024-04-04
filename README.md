@@ -6,4 +6,4 @@ As such, OLIVUS_1 is envisioned as an Artificially Intelligent Agent that constr
 
 OLIVUS_1 operates on a traditional Build Measure Learn loop from Lean Manufacturing. Through this, it is able to manage Orchestrator agents that manage workers, a la an assembly line. It has a true factory model that allows it to build its own tools inside of workflows and print the workflow into a schema that can be turned into patterns and combined in any way with any other schema. It engages the orchestrator agents that it operates through sub-BML cycles using Plan-Do-Check-Act loops to account for the bifurcation of planning going from a BML top-down phase to an assembly line bottom-up phase.
 
-![img](https://github.com/sancovp/OLIVUS_1/blob/main/olivus1_bml.png)
+![bml](https://github.com/sancovp/OLIVUS_1/blob/main/mermaid-diagram-2024-04-04-144334.svg)
